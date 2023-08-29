@@ -1,1 +1,10 @@
-
+.per{
+	width:50vw;
+	height:10px;
+	background-color:skyblue;
+}
+.quant{
+	width:85%;
+	height:10px;
+	background-color:blue;
+}
